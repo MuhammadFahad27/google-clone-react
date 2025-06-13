@@ -1,12 +1,26 @@
-# React + Vite
+# 🔍 Google Search Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **Google-inspired Search Engine Clone** built using **React** and **Tailwind CSS**, integrating the **Google Programmable Search API**. This project is fully responsive and includes features like real-time search results and pagination.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🌐 Google-style UI and search functionality
+- 🔎 Integrated with Google Programmable Search API
+- 💻 Fully responsive design (Mobile, Tablet, Desktop)
+- ⚛️ Built using React functional components and hooks
+- 🎨 Styled using Tailwind CSS for a modern look
+- 📄 Pagination support for navigating through search results
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **React** (with Hooks)
+- **Tailwind CSS**
+- **Google Programmable Search API**
+- **Axios** for API requests
+- **React Router** for navigation
+
+
